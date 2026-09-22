@@ -4,7 +4,7 @@ Bac à sable pour tester des modèles, un répertoire par modèle testé.
 
 ## Contenu
 
-- `test-jed/` — premier modèle testé : **Jed**.
+- `test-jev/` — premier modèle testé : **Jev**.
 
 ## Principe
 

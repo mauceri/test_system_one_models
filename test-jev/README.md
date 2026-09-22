@@ -1,6 +1,6 @@
-# test-jed
+# test-jev
 
-Répertoire de test du modèle **Jed**.
+Répertoire de test du modèle **Jev**.
 
 ## À définir
 
